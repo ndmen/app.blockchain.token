@@ -1,6 +1,7 @@
 # app.blockchain.linearvesting
 
 ## Description
+This is simple ERC20 Token
 
 ## Installation
 
